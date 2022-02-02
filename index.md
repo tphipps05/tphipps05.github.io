@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### School Mapping Projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Personal Mapping Products
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +27,13 @@
 
 ---
 
+### Programming Portfolio 
 
+- [Project 1 Title]
+- [Projecet 2 Title]
+- [Project 3 Title]
+- [Project 4 Title]
+- [Project 5 Title]
 
 
 ---
