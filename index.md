@@ -4,7 +4,7 @@
 
 ### School Mapping Projects 
 
-[GES 486](/sample_page)
+[GES 486](GES_486)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
