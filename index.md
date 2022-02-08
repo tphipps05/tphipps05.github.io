@@ -4,16 +4,16 @@
 
 ### School Mapping Projects 
 
-[GES 486](GES_486)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GES 486]
+<Alaska_airport_map_final.pdf>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GES_486]
+<Alaska_landcovermap.pdf>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GES_486]
+<Canada FN Map.pdf>
 
 ---
 
