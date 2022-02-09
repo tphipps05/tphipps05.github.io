@@ -14,6 +14,7 @@
 ---
 [GES_486]
 
+![Canada FirstNation Map](images/Canada FN Map_00_00.jpg)
 
 ---
 
