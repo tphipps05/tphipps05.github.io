@@ -6,7 +6,7 @@
 
 [GES 486]
 
-"images/Alaska_airport_map_final_00_00.jpg"
+![Alaska Airports](images/Alaska_airport_map_final_00_00.jpg)
 ---
 [GES_486]
 
