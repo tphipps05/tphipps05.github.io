@@ -10,6 +10,7 @@
 ---
 [GES_486]
 
+![Alaska Landcover](images/Alaska_landcovermap_00_00.jpg)
 ---
 [GES_486]
 
