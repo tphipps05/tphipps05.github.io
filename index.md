@@ -5,15 +5,13 @@
 ### School Mapping Projects 
 
 [GES 486]
-<Alaska_airport_map_final.pdf>
 
 ---
 [GES_486]
-<Alaska_landcovermap.pdf>
 
 ---
 [GES_486]
-<Canada FN Map.pdf>
+
 
 ---
 
