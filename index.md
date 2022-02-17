@@ -1,6 +1,4 @@
-## Portfolio (:&#128679;
-: Under Construction :&#128679;
-:)
+## Portfolio (&#128679; Under Construction &#128679;)
 
 ---
 
