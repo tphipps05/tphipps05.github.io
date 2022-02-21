@@ -26,9 +26,11 @@
 
 #### ** GES 383** 
 
+<a href="tphipps05.github.io/pdfs/Lab2_inkscape_final_PDF.pdf" target="_blank">PDF.</a>
+>I produced this map using spring turkey harvest data by Maryland counties for 2021
 
 
-
+---
 
 
 
