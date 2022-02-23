@@ -20,14 +20,14 @@
 
 #### GES 486
 
-![Canada Map](images/Canada FN Map_00_00.jpg) 
+![Canada Map](/images/Canada FN Map_00_00.jpg) 
  This map was made in QGIS and shows First Nation population by Canadian Province 
 
 ---
 
 #### GES 383 
 
-<a href="tphipps05.github.io/pdfs/Lab2_inkscape_final_PDF.pdf" target="_blank">PDF.</a>
+![Maryland Spring 2021 Wild Turkey Harvest by County] (/images/turkey_map.png) 
 I produced this map using spring turkey harvest data by Maryland counties for 2021
 
 
