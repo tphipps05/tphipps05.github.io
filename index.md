@@ -7,15 +7,14 @@
 #### GES 486
 
 ![Alaska Airports](images/Alaska_airport_map_final_00_00.jpg)
- This is an example map created in QGIS
+ This is an example map created in QGIS showing airport location, type, and elevation in meters. 
 
-[Learn QGIS-Fourth Edition](https://www.packtpub.com/product/learn-qgis-fourth-edition/9781788997423)
 ---
 
 #### GES 486
 
 ![Alaska Landcover](images/Alaska_landcovermap_00_00.jpg)
- Example landcover map for Alaska made in QGIS showing location, use, and airport elevation
+ Example landcover map for Alaska made in QGIS
 
 ---
 
