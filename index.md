@@ -38,7 +38,7 @@ I produced this map using spring turkey harvest data by Maryland counties for 20
 
 ### Personal Mapping Projects
 
-
+####
 
 
 - [Project 1 Title](http://example.com/)
@@ -51,10 +51,7 @@ I produced this map using spring turkey harvest data by Maryland counties for 20
 
 ### Programming Portfolio 
 
-- Working with Census Data in R, Chapters 5-1 of Walker
-<a href="tphipps05.github.io/pdfs/PHIPPS_lab_3_merge.pdf" target="_blank">PDF.</a>
 
-Tutorial and basic exercises on manipulating and displaying census data in Rstudio.
 - [Projecet 2 Title]
 - [Project 3 Title]
 - [Project 4 Title]
