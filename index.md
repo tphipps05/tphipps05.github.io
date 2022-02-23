@@ -7,7 +7,7 @@
 #### GES 486
 
 ![Alaska Airports](images/Alaska_airport_map_final_00_00.jpg)
-> Example map of Alaskan airports with use and field elevation in meters. This map was created in QGIS using sample data from [Learn QGIS-Fourth Edition](https://www.packtpub.com/product/learn-qgis-fourth-edition/9781788997423)
+ Example map of Alaskan airports with use and field elevation in meters. This map was created in QGIS using sample data from [Learn QGIS-Fourth Edition](https://www.packtpub.com/product/learn-qgis-fourth-edition/9781788997423)
 ---
 
 #### GES 486
