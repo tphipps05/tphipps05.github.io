@@ -13,7 +13,7 @@
 
 #### GES 486
 
-![Alaska Landcover](images/Alaska_landcovermap_00_00.jpg)
+![Alaska Landcover](/images/Alaska_landcovermap_00_00.jpg)
  Example landcover map for Alaska made in QGIS
 
 ---
