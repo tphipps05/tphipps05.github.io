@@ -4,30 +4,30 @@
 
 ### School Mapping Projects 
 
-#### **GES 486**
+#### GES 486
 
 ![Alaska Airports](images/Alaska_airport_map_final_00_00.jpg)
 > Example map of Alaskan airports with use and field elevation in meters. This map was created in QGIS using sample data from [Learn QGIS-Fourth Edition](https://www.packtpub.com/product/learn-qgis-fourth-edition/9781788997423)
 ---
 
-#### **GES 486**
+#### GES 486
 
 ![Alaska Landcover](images/Alaska_landcovermap_00_00.jpg)
-> Example landcover map for Alaska made in QGIS
+ Example landcover map for Alaska made in QGIS
 
 ---
 
-#### **GES 486**
+#### GES 486
 
 ![Canada Map](images/Canada FN Map_00_00.jpg) 
->This map was made in QGIS and shows First Nation population by Canadian Province 
+ This map was made in QGIS and shows First Nation population by Canadian Province 
 
 ---
 
-#### ** GES 383** 
+#### GES 383 
 
 <a href="tphipps05.github.io/pdfs/Lab2_inkscape_final_PDF.pdf" target="_blank">PDF.</a>
->I produced this map using spring turkey harvest data by Maryland counties for 2021
+I produced this map using spring turkey harvest data by Maryland counties for 2021
 
 
 ---
