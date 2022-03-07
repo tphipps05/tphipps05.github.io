@@ -27,7 +27,7 @@
 
 #### GES 383 
 
-![Maryland Spring 2021 Wild Turkey Harvest by County](/images/turkey_map.png) 
+![Maryland Spring 2021 Wild Turkey Harvest by County]
 I produced this map using spring turkey harvest data by Maryland counties for 2021. The data was obtained from the Maryland DNR website and then inputed into excel then exported as a .csv, I then merged the .csv with a shapefile of Maryland counties, and then set the symbology to total turkey harvest by county.
 
 
