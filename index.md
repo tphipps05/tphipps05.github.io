@@ -20,7 +20,7 @@
 
 #### GES 486
 
-![Canada Map](/images/Canada FN Map_00_00.jpg) 
+![Canada First Nation Map](/images/Canada FN Map_00_00.jpg) 
  This map was made in QGIS and shows First Nation population by Canadian Province 
 
 ---
