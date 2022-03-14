@@ -13,14 +13,14 @@
 
 #### GES 486
 
-![Alaska Landcover](/images/Alaska_landcovermap_00_00.jpg)
+![Alaska Landcover](images/Alaska_landcovermap_00_00.jpg)
  Example landcover map for Alaska made in QGIS
 
 ---
 
 #### GES 486
 
-![Canada First Nation Map](/images/Canada_FN_Map_00_00.jpg) 
+![Canada First Nation Map](images/Canada_FN_Map_00_00.jpg) 
  This map was made in QGIS and shows First Nation population by Canadian Province 
 
 ---
