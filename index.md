@@ -18,6 +18,10 @@
 
 ---
 
+#### GES 486 
+![Final Project](path_goes_here)
+Spatial analysis of opioid overdoses in Baltimore City. Maps were created using Rstudio.
+
 
 
 #### GES 383 
