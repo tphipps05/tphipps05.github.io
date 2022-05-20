@@ -61,7 +61,11 @@ Census data retrieved using the tidycensus package for Rstudio
 
 Census data retrieved using the tidycensus package for Rstudio
 
-![Minimum Distance to Naloxone Provider](/images/
+#### Minimum Distance from Community Statistical Area Centroid to Naloxone Provider 
+
+![Minimum Distance to Naloxone Provider](/images/nearest_p.png)
+
+This was my favorite map to make and in my opinion, the most interesting
 
 ---
 
