@@ -33,7 +33,7 @@ I produced this map using spring turkey harvest data by Maryland counties for 20
 
 ### GES 486 Final Project
 
-For my final project showing off what R programming skills I learned this semster, I chose to examine opioid overdoses in Baltimore City for the year 2020. More specifically, I wanted to examine the relationship between the location of Naloxone (Narcan) providers to areas in the city where there is a higher concentration of overdoses. Additionally I examined the location of the Naloxone providers in relation to median household income by census tract as well as racial demographics by census tract, in order to see if there were any disparities in the location of the providers. All of the following maps were created by me in Rstudio. A PDF of the RMD for this final project is linked under the "Programming Portfolio" section of this page. 
+For my final project showing off what R programming skills I learned this semster, I chose to examine opioid overdoses in Baltimore City for the year 2020. More specifically, I wanted to examine the relationship between the location of Naloxone (Narcan) providers to areas in the city where there is a higher concentration of overdoses. Additionally I examined the location of the Naloxone providers in relation to median household income by census tract as well as racial demographics by census tract, in order to see if there were any disparities in the location of the providers. Lastly I created a map showing minimum distance to Naloxone providers from the centroids of CSA's. All of the following maps were created by me in Rstudio. A PDF of the RMD for this final project is linked under the "Programming Portfolio" section of this page. 
 
 #### Map of Naloxone Provider Locations Compared to Overdose Calls for Service per 2,000 Residents (2020)
  ![Map of Naloxone Provider Locations compared to overdose calls for service per 2,000 residents](/images/Overdose_with_narcan_locations.png)
@@ -60,6 +60,8 @@ Census data retrieved using the tidycensus package for Rstudio
 ![Percent White by census tract with Naloxone Providers displayed](/images/Percent_white.png)
 
 Census data retrieved using the tidycensus package for Rstudio
+
+![Minimum Distance to Naloxone Provider](/images/
 
 ---
 
