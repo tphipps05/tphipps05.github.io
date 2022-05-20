@@ -35,15 +35,18 @@ I produced this map using spring turkey harvest data by Maryland counties for 20
 
 
 
-### Personal Mapping Projects
+### GES 486 Final Project
 
-####
+For my final project showing off what R programming skills I learned this semster, I chose to examine opioid overdoses in Baltimore City for the year 2020. More specifically, I wanted to examine the relationship between the location of Naloxone (Narcan) providers to areas in the city where there is a higher concentration of overdoses. Additionally I examined the location of the Naloxone providers in relation to median household income by census tract as well as racial demographics by census tract, in order to see if there were any disparities in the location of the providers. All of the following maps were created by me in Rstudio. A PDF of the RMD for this final project is linked under the "Programming Portfolio" section of this page. 
 
+- [Map of Naloxone Provider Locations compared to overdose calls for service per 2,000 residents](/images/Overdose_with_narcan_locations.png)
+This map shows Naloxone provider locations (red dots) overlaid on a map of overdose calls for service per 2,000 residents by CSA for the Year 2020
+- [Naloxone Provider Locations Compared to Median Household Income by Census Tract](/images/MHI_map.png)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
+
 - [Project 4 Title](http://example.com/)
+
 - [Project 5 Title](http://example.com/)
 
 ---
