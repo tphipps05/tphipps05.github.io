@@ -53,8 +53,13 @@ This map shows Naloxone provider locations in relation to median household incom
 #### Map of Naloxone Provider Locations Compared to Percent Black by Census Tract
  ![Percent Black/African American by census tract with Naloxone Providers displayed](/images/Percent_black_censustract.png)
 
+Census data retrieved using the tidycensus package for Rstudio
 
-- [Project 5 Title](http://example.com/)
+#### Map of Naloxone Provider Locations Compared to Percent White by Census Tract
+
+![Percent White by census tract with Naloxone Providers displayed](/images/Percent_white.png)
+
+Census data retrieved using the tidycensus package for Rstudio
 
 ---
 
