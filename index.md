@@ -19,7 +19,7 @@
 ---
 
 #### GES 486 
-![Final Project](path_goes_here)
+![Final Project](images/Overdose_with_narcan_locations.jpg)
 Spatial analysis of opioid overdoses in Baltimore City. Maps were created using Rstudio.
 
 
